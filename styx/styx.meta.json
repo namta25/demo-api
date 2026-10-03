@@ -1,0 +1,8 @@
+{
+  "container_port": 8080,
+  "generated_by": "styx",
+  "health_path": "/health",
+  "inspector_version": "v1",
+  "language_hint": "node",
+  "workload_name": "repo"
+}
