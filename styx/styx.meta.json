@@ -1,6 +1,0 @@
-{
-  "container_port": 8080,
-  "health_path": "/health",
-  "language_hint": "node",
-  "workload_name": "demo-api"
-}
